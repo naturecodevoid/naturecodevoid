@@ -2,7 +2,9 @@
 
 I like creating random projects that don't always make sense, but are fun to make! :smile:
 
-[Click here to go to my projects](https://github.com/naturecodevoid?tab=repositories)
+[Click here to see my primary projects!](https://naturecodevoid.dev/projects.html)
+
+[Click here to see all my projects!](https://github.com/naturecodevoid?tab=repositories)
 
 ## Languages I like:
 
