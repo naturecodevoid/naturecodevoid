@@ -1,6 +1,6 @@
 # Welcome to my profile!
 
-I like creating random projects that don't always make sense, but are fun to make! :smile:
+I like creating random projects! 😄
 
 [Click here to see my primary projects!](https://naturecodevoid.dev/projects.html)
 
@@ -17,7 +17,6 @@ I like creating random projects that don't always make sense, but are fun to mak
 ## Cool projects you should check out:
 
 -   [ct.js game engine](https://ctjs.rocks/)
--   [CodeSandbox](https://codesandbox.io/)
 -   [Brave browser](https://brave.com/)
 -   [Expo](https://expo.io/)
 -   [vscode](https://code.visualstudio.com)
