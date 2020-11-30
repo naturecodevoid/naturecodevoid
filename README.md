@@ -25,4 +25,4 @@ I like creating random projects! 😄
 
 ## Contact me:
 
-Discord: naturecodevoid#6253
+See [my website](https://naturecodevoid.dev/#contact)
