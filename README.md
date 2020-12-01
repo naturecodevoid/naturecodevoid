@@ -10,9 +10,9 @@ I like creating random projects! 😄
 
 -   [Node.js/javascript](https://nodejs.org/)
 -   [Python](https://www.python.org/)
--   HTML/CSS
+-   [HTML/CSS](https://developer.mozilla.org/en-US/docs/Web/HTML)
 -   [Java](https://www.oracle.com/java/)
--   C/C++
+-   [C/C++](https://en.wikipedia.org/wiki/C%2B%2B)
 
 ## Cool projects you should check out:
 
