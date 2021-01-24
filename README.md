@@ -2,7 +2,7 @@
 
 I like creating random projects! 😄
 
-[Click here to see my primary projects!](https://naturecodevoid.dev/projects.html)
+[Click here to see my primary projects!](https://naturecodevoid.dev/projects)
 
 [Click here to see all my repositores!](https://github.com/naturecodevoid?tab=repositories)
 
