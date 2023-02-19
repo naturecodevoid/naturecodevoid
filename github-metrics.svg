@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            259 issue comments
+                            260 issue comments
                         </div>
                     </section>
                     <section>
@@ -213,6 +213,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#270 [BUG] Can't install app from staging directory</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by andre1808 in <span class="repo">SideStore/SideStore</span></div>
+                                    <div class="comment">Hi, thanks for reporting this. The staging error is one of our highest priority bugs to fix. We have gotten many reports of it happening when installing uYou+. However, we've never gotten a report of it happening when you refresh an app. You should be able to manually sideload uYou+ with AltServer (you will have to do this once every 7 days if you don't want it to expire). Are you still able to reproduce it happening when you refresh? 
+Also, I think it happening when you refreshed was due to you using an incomplete build from github actions. Please know that most of those builds are from incomplete PRs. One of them is a major UI rewrite and it was reported to get staging error from every install/refresh (but if you switch to the old UI, it works fine).
+Please let me know if refreshing still gives a staging error (on latest nightly, not github actions builds!!). If it does, please send us minimuxer logs AFTER you reproduce it, which you can access by going to Settings &gt; View Error Log &gt; Click the bug icon in the top right. Otherwise, I will probably close this issue as a duplicate of the staging error issue.</div>
+                                </div>
+                                <div class="timestamp">19 Feb 2023, 07:05:25</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -515,30 +535,12 @@ https://github.com/krzysztofzablocki/Inject#individual-developer-setup-once-per-
                                 <div class="timestamp">17 Feb 2023, 18:40:40</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#5 add minimuxer_set_location for set ios location</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by hw-1 in <span class="repo">SideStore/minimuxer</span></div>
-                                    <div class="comment">Hey @hw-1, I discussed with some other team members and we are planning to add this as a feature eventually, but I think this PR will need some code cleanup first. It will also need an implementation in SideStore, but I may be able to do that.</div>
-                                </div>
-                                <div class="timestamp">17 Feb 2023, 11:27:28</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Feb 2023, 06:13:37 (timezone America/Los_Angeles) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 19 Feb 2023, 07:15:06 (timezone America/Los_Angeles) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
