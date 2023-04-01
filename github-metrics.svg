@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1810" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1588" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -217,6 +217,131 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Merged
+                                        <span class="issue">#321 refactor minimuxer to use swift-bridge</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">SideStore/SideStore</span></div>
+                                    <div>14 files changed <span class="code">++172 --252</span></div>
+                                </div>
+                                <div class="timestamp">1 Apr 2023, 16:02:13</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">naturecodevoid/minimuxer-swift-bridge</span>
+                                        in
+                                        <span class="repo">SideStore/SideStore</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">1 Apr 2023, 16:02:14</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">SideStore/SideStore</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0c17112</div>
+                                        <div class="message">refactor minimuxer to use swift-bridge (#321)
+
+also add team ID to the end of the bundle ID for Debug builds to mirror SideServer</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">1 Apr 2023, 16:02:13</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">SideStore/SideStore</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">naturecodevoid/minimuxer-swift-bridge</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e5d10b6</div>
+                                        <div class="message">use FileManager.default.documentsDirectory</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">1 Apr 2023, 15:23:32</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">SideStore/minimuxer</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#95ac2ce</div>
+                                        <div class="message">[build]</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">1 Apr 2023, 15:20:05</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">SideStore/SideStore</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">naturecodevoid/minimuxer-swift-bridge</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4407c45</div>
+                                        <div class="message">add team ID to the end of the bundle ID for Debug builds to mirror SideServer</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b99c6e2</div>
+                                        <div class="message">improvements to minimuxer usage</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">1 Apr 2023, 15:19:32</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -393,304 +518,12 @@
                                 <div class="timestamp">30 Mar 2023, 19:12:49</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#331 [BUG] can't open sidestore the next day after installing it，</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by le332313 in <span class="repo">SideStore/SideStore</span></div>
-                                    <div class="comment">AltStore and SideStore are known to be incompatible, SideStore may crash if AltStore is still installed</div>
-                                </div>
-                                <div class="timestamp">30 Mar 2023, 19:12:45</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 9 commits in
-                                        <span class="repo">naturecodevoid/swift-bridge</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">derive-debug-enum</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4548496</div>
-                                        <div class="message">Merge remote-tracking branch 'upstream/master' into derive-debug-enum</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1b797f6</div>
-                                        <div class="message">Add compile error for associated_to attribute (#206)
-
-This commit adds support for generating a compile error message when using `#[swift_bridge(associated_to = OpaqueRustType)]` on instance methods.
-
-Related to #179.
-
-```rust
-#[swift_bridge::bridge]
-mod ffi {
-    extern "Rust" {
-        type SomeType;
-
-        #[swift_bridge(associated_to = SomeType)]
-        fn immutable_method(&amp;self);
-
-        #[swift_bridge(associated_to = SomeType)]
-        fn mutable_method(&amp;mut self);
-
-        #[swift_bridge(associated_to = SomeType)]
-        fn owned_method(self);
-    }
-}
-```
-
-Will generate the following error:
-
-```
-error: The associated_to attribute is used for only an associated method.
-  --&gt; tests/ui/invalid-associated-to-attribute.rs:10:29
-   |
-10 |         fn immutable_method(&amp;self);
-   |                             ^^^^^
-
-error: The associated_to attribute is used for only an associated method.
-  --&gt; tests/ui/invalid-associated-to-attribute.rs:13:27
-   |
-13 |         fn mutable_method(&amp;mut self);
-   |                           ^^^^^^^^^
-
-error: The associated_to attribute is used for only an associated method.
-  --&gt; tests/ui/invalid-associated-to-attribute.rs:16:25
-   |
-16 |         fn owned_method(self);
-   |                         ^^^^
-
-```</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d03f772</div>
-                                        <div class="message">Support primitive tuples Swift -&gt; Rust (#205)
-
-This commit adds support tuples from Swift -&gt; Rust, which consist of only primitives.
-
-related to #204.
-
-Here's an example of using this:
-
-```rust
-#[swift_bridge::bridge]
-mod ffi {
-    extern "Swift" {
-        fn swift_reflect_tuple_primitives(arg: (i32, u32)) -&gt; (i32, u32);
-    }
-}
-```
-
-```rust
-//Rust
-
-//...
-let tuple = swift_reflect_tuple_primitives((-123, 123));
-//...
-```</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#637c7b3</div>
-                                        <div class="message">Support tuples (#195)
-
-This commit adds support for tuples. 
-
-related to #188.
-
-Here's an example of using this:
-
-```rust
-#[swift_bridge::bridge]
-mod ffi {
-    extern "Rust" {
-        fn reflect_tuple_primitives(tuple: (i16, u32)) -&gt; (i16, u32);
-    }
-}
-
-fn reflect_tuple_primitives(tuple: (i16, u32)) -&gt; (i16, u32) {
-    tuple
-}
-```
-
-```swift
-//...
-let tuple = reflect_tuple_primitives((-1, 10))
-//...
-```</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d713d36</div>
-                                        <div class="message">Add Performance section to README</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fdca9fc</div>
-                                        <div class="message">Support Option&lt;Primitive&gt; in Swift fns (#203)
-
-This commit adds support for Option&lt;PrimitiveType&gt; in `extern "Swift"`
-functions.
-
-For example, the following is now possible:
-
-```rust
-mod ffi {
-    extern "Swift" {
-        fn my_func(arg: Option&lt;u8&gt;) -&gt; Option&lt;bool&gt;;
-    }
-}
-```</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#03ca041</div>
-                                        <div class="message">Fix dangling pointer warning (#202)
-
-Closes https://github.com/chinedufn/swift-bridge/issues/108</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b4c5d9b</div>
-                                        <div class="message">Add Vec&lt;f32&gt; and Vec&lt;f64&gt; support (#200)
-
-This commit adds support for `Vec&lt;f32&gt;`/`Vec&lt;f64&gt;`.
-
-Rust code would look like:
-```rust
-#[swift_bridge::bridge]
-mod ffi {
-    #[swift_bridge(swift_repr = "struct")]
-    struct SomeStruct {
-        field: Vec&lt;f32&gt;,
-    }
-
-    extern "Rust" {
-        fn do_something(val: SomeStruct) -&gt; Vec&lt;f32&gt;;
-    }
-}
-
-fn do_something(val: SomeStruct) -&gt; Vec&lt;f32&gt; {
-    /* do something */
-}
-```
-On Swift side, `Double` and `Float` are now `Vectorizable`.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6b151f1</div>
-                                        <div class="message">Adding derive() macro support to SharedStructs (#198)
-
-This commit adds support for `#[derive(Copy, Clone)]` to `SharedStruct`s.
-
-## Example
-
-```rust
-#[swift_bridge::bridge]
-mod ffi {
-    #[swift_bridge(swift_repr = "struct")]
-    #[derive(Copy, Clone)]
-    struct Foo {
-        field: u8,
-    }
-}
-```</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">30 Mar 2023, 17:41:18</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">naturecodevoid/swift-bridge</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">derive-debug-enum</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#18356b4</div>
-                                        <div class="message">rename generated functions for derive(Debug): `__swift_bridge__$SomeEnum$_Debug` -&gt; `__swift_bridge__$SomeEnum$Debug` (removes unnecessary underscore)</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">29 Mar 2023, 17:16:01</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Closed
-                                        <span class="issue">#329 Update InstalledApp.swift</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by taicracker in <span class="repo">SideStore/SideStore</span></div>
-                                    <div>1 file changed <span class="code">++1 --1</span></div>
-                                </div>
-                                <div class="timestamp">29 Mar 2023, 12:12:06</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#329 Update InstalledApp.swift</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by taicracker in <span class="repo">SideStore/SideStore</span></div>
-                                    <div class="comment">???
-if you want it to work with MDC, use the MDC test build in JitStreamer discord (#general pins)</div>
-                                </div>
-                                <div class="timestamp">29 Mar 2023, 12:12:02</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#328 Blank Screen when opening SideStore</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by e-maximilian in <span class="repo">SideStore/SideStore</span></div>
-                                    <div class="comment">you can try this one: https://github.com/SideStore/SideStore/suites/11811870084/artifacts/616639517</div>
-                                </div>
-                                <div class="timestamp">29 Mar 2023, 09:19:23</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Apr 2023, 15:12:18 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 1 Apr 2023, 16:13:30 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
