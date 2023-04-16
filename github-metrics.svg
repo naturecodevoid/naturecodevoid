@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1650" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1983" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -213,6 +213,213 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 84 commits in
+                                        <span class="repo">naturecodevoid/wrangler2-esbuild-plugins</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">esbuild-actions-workflow</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#42fb97e</div>
+                                        <div class="message">Preserve entrypoint filename when building a Worker with --outdir (#2836)
+
+* Preserve entrypoint filename when building a Worker with --outdir
+
+* Apply suggestions from code review
+
+Co-authored-by: Pete Bacon Darwin &lt;pete@bacondarwin.com&gt;
+
+---------
+
+Co-authored-by: Pete Bacon Darwin &lt;pete@bacondarwin.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8d462c0</div>
+                                        <div class="message">Pages Functions Wasm cleanup (#2806)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#226e63f</div>
+                                        <div class="message">Fix `--experimental-local` with `wrangler pages dev` (#2855)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ad4b123</div>
+                                        <div class="message">Remove ambient `vitest` types from generated `tsconfig.json`s (#2839)
+
+Previously, `wrangler init` generated a `tsconfig.json` with
+`"types": [..., "vitest"]`, even if Vitest tests weren't generated.
+Unlike Jest, Vitest doesn't provide global APIs by default
+(https://vitest.dev/config/#globals), so there's no need for ambient
+types.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e3c036d</div>
+                                        <div class="message">Include .wrangler directory in gitignore template (#2845)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2b64176</div>
+                                        <div class="message">fix API token guide link (#2831)
+
+Co-authored-by: Daniel Walsh &lt;walshydev@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3ad1798</div>
+                                        <div class="message">test(wrangler): ensure that middleware test does not write to the source directory (#2834)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#891ddf1</div>
+                                        <div class="message">Bring `pages dev` logging in line with `dev` proper's (#2828)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4185e96</div>
+                                        <div class="message">Create pre-release landing page (#2792)
+
+* Create pre-release landing page
+
+---------
+
+Co-authored-by: Pete Bacon Darwin &lt;pete@bacondarwin.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0ed6712</div>
+                                        <div class="message">Version Packages (#2807)
+
+Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4756d6a</div>
+                                        <div class="message">wrangler: add metadata to the unsafe binding (#2665)
+
+* Add metadata to the unsafe binding
+
+This allows you to add arbitary fields to the metadata uploaded with
+a worker.
+
+```toml
+[unsafe.metadata]
+some_key = some_value
+```
+
+---------
+
+Co-authored-by: Alan Kemp &lt;akemp@cloudflare.com&gt;
+Co-authored-by: Pete Bacon Darwin &lt;pete@bacondarwin.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6278413</div>
+                                        <div class="message">chore: upgrade to `@miniflare/tre@3.0.0-next.12` (#2810)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#700692f</div>
+                                        <div class="message">[Templates] Migrate templates into workers-sdk monorepo (#2781)
+
+* Migrate templates into workers-sdk
+
+* run prettier to format code
+
+* move templates into experimental folder
+
+* gitignore .idea files
+
+* move binast template into experimental folder
+
+* Update templates/experimental/worker-scala/wrangler.toml
+
+Co-authored-by: Jacob M-G Evans &lt;27247160+JacobMGEvans@users.noreply.github.com&gt;
+
+* Update .gitignore
+
+Co-authored-by: Jacob M-G Evans &lt;27247160+JacobMGEvans@users.noreply.github.com&gt;
+
+* Update templates/experimental/worker-dart/worker-binast/wrangler.toml
+
+Co-authored-by: Jacob M-G Evans &lt;27247160+JacobMGEvans@users.noreply.github.com&gt;
+
+* Update templates/experimental/worker-fsharp/.gitignore
+
+Co-authored-by: Jacob M-G Evans &lt;27247160+JacobMGEvans@users.noreply.github.com&gt;
+
+* Update templates/experimental/worker-fsharp/src/FetchUtils.fs
+
+Co-authored-by: Jacob M-G Evans &lt;27247160+JacobMGEvans@users.noreply.github.com&gt;
+
+* Update templates/experimental/worker-kotlin/.gitignore
+
+Co-authored-by: Jacob M-G Evans &lt;27247160+JacobMGEvans@users.noreply.github.com&gt;
+
+* Update templates/experimental/worker-perl/wrangler.toml
+
+Co-authored-by: Jacob M-G Evans &lt;27247160+JacobMGEvans@users.noreply.github.com&gt;
+
+* Update templates/experimental/worker-kotlin/cargo-generate.toml
+
+Co-authored-by: Jacob M-G Evans &lt;27247160+JacobMGEvans@users.noreply.github.com&gt;
+
+* Update templates/experimental/worker-kotlin/gradle.properties
+
+Co-authored-by: Jacob M-G Evans &lt;27247160+JacobMGEvans@users.noreply.github.com&gt;
+
+* Update templates/experimental/worker-php/index.php
+
+Co-authored-by: Jacob M-G Evans &lt;27247160+JacobMGEvans@users.noreply.github.com&gt;
+
+* Update templates/experimental/worker-php/wrangler.toml
+
+Co-authored-by: Jacob M-G Evans &lt;27247160+JacobMGEvans@users.noreply.github.com&gt;
+
+---------
+
+Co-authored-by: Jacob M-G Evans &lt;27247160+JacobMGEvans@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3725086</div>
+                                        <div class="message">Add support for `node:*` imports with the `nodejs_compat` compatibility flag (#2539)
+
+* Fix capitalization of Node.js
+
+* Internally rename `nodeCompat` to `legacyNodeCompat`
+
+* Mark `node:*` imports as external when using the `nodejs_compat` compatibility flag</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f7d49eb</div>
+                                        <div class="message">Version Packages (#2791)
+
+Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ec3e181</div>
+                                        <div class="message">Add changeset (#2795)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e6e1dab</div>
+                                        <div class="message">Add duplex to r2 put (#2793)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4ca8c0b</div>
+                                        <div class="message">Fix `next(param)` in Pages Plugins (#2789)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1335007</div>
+                                        <div class="message">Add ESLint no .only (#2785)
+
+To prevent .only in tests from getting into main, added an ESLint rule that will
+error on them, CI will no longer pass if .only is present in any tests</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#26d8066</div>
+                                        <div class="message">Update CONTRIBUTING.md (#2782)</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">16 Apr 2023, 07:04:50</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -505,30 +712,12 @@ This reverts commit e8e7cd881b09a9faf440196f4cf4bfc7db56e70e.</div>
                                 <div class="timestamp">13 Apr 2023, 07:39:11</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Closed
-                                        <span class="issue">#9 Just leaving a comment here letting you know that I'll look into this issue soon when I have time.</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by BAS27-BKK in <span class="repo">SideStore/sidestore_downloader</span></div>
-                                </div>
-                                <div class="timestamp">13 Apr 2023, 07:39:06</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Apr 2023, 06:15:25 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 16 Apr 2023, 07:11:47 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
