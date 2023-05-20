@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1624" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1973" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .bold{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}code{display:inline-block}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -213,6 +213,133 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 81 commits in
+                                        <span class="repo">SideStore/SideStore</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">naturecodevoid/swiftui-improvements</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ca7acc1</div>
+                                        <div class="message">[ADD] iOS 13 compatible AsyncImage implementation with cache</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#16a8bce</div>
+                                        <div class="message">[ADD] News, Browse and Settings views ported to SwiftUI
+
+This commit contains WIP SwiftUI versions of most of the views in SideStore.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ed2270f</div>
+                                        <div class="message">Anisette V3 (#324)
+
+* initial anisette V3 implementation
+
+* update V3 urls and log version
+
+* fix crash where FetchAnisetteDataOperation.clientInfo would be nil when getting anisette V3 without provisioning first
+
+* move adi.pb reset to its own button instead of doing it on sign out
+
+* fallback to V1 if client_info fails
+
+* make sure to unwrap optional strings
+
+* feat(anisette): update v3 usage, improve error messages and names, report v3 errors to the user
+
+* refactor(anisette): reduce duplicate JSON to anisette code
+
+* fixes(anisette v3): improve errors, fix v3 server check, fix some edge cases where SideStore could crash and instead return an error, retry on -45061</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#45b6c3b</div>
+                                        <div class="message">Fix 'The name for this app is invalid' error(#361)
+
+Fix 'The name for this app is invalid' error when sideloading with non-ascii name ipa</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#84e2284</div>
+                                        <div class="message">Optimizing function calls
+Thanks for @ktprograms advice</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1c0d0be</div>
+                                        <div class="message">Fix 'The name for this app is invalid' error
+This error is related to App ID creation failure.
+App ID name must be an ascii text. It is not allowed to create an App ID with non-ascii text like Chinese, Japanese.
+If the name is NOT an ascii text, using bundleID instead.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a9ce0f4</div>
+                                        <div class="message">fix: open Safari instead of force closing and provide a fallback for users with notifications disabled</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#07533e0</div>
+                                        <div class="message">fix: ensure minimuxer is started when refreshing in the background</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ee5ddd4</div>
+                                        <div class="message">fix: use a notification instead of an alert for force close</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f519d22</div>
+                                        <div class="message">fix: removing _CodeSignature folder before resigning</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#51ed870</div>
+                                        <div class="message">[skip ci] ci: fully rename SideStore.ipa, even after extracting the artifact zip</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1ca3aa3</div>
+                                        <div class="message">fix: force close SideStore after 3 seconds if still reinstalling</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0178c63</div>
+                                        <div class="message">fix: hopefully reduce ApplicationVerificationFailed errors by removing _CodeSignature folders since those may cause a problem</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8a97c40</div>
+                                        <div class="message">fix: add .AltWidget to app group ID when modifying for SideStore</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3dd0735</div>
+                                        <div class="message">fix: always reinstall when refreshing ourselves</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#536f775</div>
+                                        <div class="message">Revert "Don't reinstall on first SideStore refresh"
+
+This reverts commit 40e1225b875922d8d0dfe0e713434e4150a26e03.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#00f7a68</div>
+                                        <div class="message">[skip ci] chore: rename tempEnt.plist to ReleaseEntitlements.plist to reduce future confusion</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d79b166</div>
+                                        <div class="message">chore: Remove old apps.json/app.json files</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b3d827f</div>
+                                        <div class="message">refactor: remove minimuxerToOperationError in favor of extending MinimuxerError to be a LocalizedError and remove unused cases from OperationError</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#40bcef1</div>
+                                        <div class="message">Use XYZ0123456 team ID for tempEnt.plist
+
+Signed-off-by: naturecodevoid &lt;44983869+naturecodevoid@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">20 May 2023, 11:24:15</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -464,28 +591,12 @@ v3 is also made to solve the centralized server issue, so if you're self hosting
                                 <div class="timestamp">17 May 2023, 20:07:50</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8.878.392a1.75 1.75 0 00-1.756 0l-5.25 3.045A1.75 1.75 0 001 4.951v6.098c0 .624.332 1.2.872 1.514l5.25 3.045a1.75 1.75 0 001.756 0l5.25-3.045c.54-.313.872-.89.872-1.514V4.951c0-.624-.332-1.2-.872-1.514L8.878.392zM7.875 1.69a.25.25 0 01.25 0l4.63 2.685L8 7.133 3.245 4.375l4.63-2.685zM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432L2.5 5.677zm6.25 8.271l4.625-2.683a.25.25 0 00.125-.216V5.677L8.75 8.432v5.516z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Released
-                                        <span class="bold">build</span>
-                                        of
-                                        <span class="repo">naturecodevoid/omnisette-server-linux-musl</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">17 May 2023, 16:04:30</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 May 2023, 11:15:43 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 20 May 2023, 12:10:31 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
